@@ -16,3 +16,5 @@ Instance Segmentation을 이용하여 자동으로 물품을 인식해 계산하
 ##### 얼굴인식 [바로가기](https://drive.google.com/file/d/1zcnn5Xcm7wsAVi3dmpVMKs3rjsuPePLB/view?usp=sharing)  
 
 ##### 물품인식 및 전체코드 [바로가기](https://drive.google.com/file/d/1obdxc6qIaJtL3yIzJUS-2qE_hoxyJqYb/view?usp=sharing)
+
+##### 최종보고서 [바로가기](https://docs.google.com/document/d/1EzVYyrwF7j9O98zquVzznqzZkLeSwYi8pLhC3XUTq8w/edit?usp=sharing)
